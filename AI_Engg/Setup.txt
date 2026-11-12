@@ -257,3 +257,13 @@ DONE
 ==================================================
 When all checks pass, you are ready for Day 1.
 
+
+
+
+cd AI_Engg
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<your-username>/AI_Engg.git
+git push -u origin main
