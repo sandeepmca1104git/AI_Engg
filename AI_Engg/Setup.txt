@@ -1,9 +1,6 @@
 AI ENGINEER COURSE - SETUP GUIDE
 =================================
 
-Everything you need for the 8-week course. Free. Works on any laptop.
-
-
 ==================================================
 PYTHON 3.11 - WINDOWS
 ==================================================
